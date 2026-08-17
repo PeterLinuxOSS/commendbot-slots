@@ -1,0 +1,5 @@
+slot/config.json
+node_modules/
+*.deb
+desktop.ini
+.env

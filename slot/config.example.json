@@ -1,0 +1,10 @@
+{
+    "ID": 1,
+    "TOKEN": "<selfbot user token>",
+    "main1": "<channel id: control channel 1>",
+    "main2": "<channel id: control channel 2>",
+    "slot1": "<channel id: relay channel 1>",
+    "slot2": "<channel id: relay channel 2>",
+    "webhookurl1": "<discord webhook url>",
+    "webhookurl2": "<discord webhook url>"
+}
